@@ -1,8 +1,5 @@
 # Project_AZ
 
-from selenium import webdriver
+I need click in box and write the name of my school, however I don't need clik.
 
-navegador = webdriver.Chrome()
-navegador.get('https://app.redeaz.com.br/')
-
-navegador.find_element_by_tag_name('a').click()
+Do Anyone for help me?
